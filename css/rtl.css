@@ -1,0 +1,333 @@
+@font-face {
+  font-family: 'helvetica';
+  src: url("../fonts/Helvetica/normal/HelveticaNeueLTArabic-Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/Helvetica/normal/HelveticaNeueLTArabic-Roman.woff") format("woff"), url("../fonts/Helvetica/normal/HelveticaNeueLTArabic-Roman.ttf") format("truetype"), url("../fonts/Helvetica/normal/HelveticaNeueLTArabic-Roman.svg#HelveticaNeueLTArabic-Roman") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'helvetica-bold';
+  src: url("../fonts/Helvetica/bold/HelveticaNeueLTArabic-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Helvetica/bold/HelveticaNeueLTArabic-Bold.woff") format("woff"), url("../fonts/Helvetica/bold/HelveticaNeueLTArabic-Bold.ttf") format("truetype"), url("../fonts/Helvetica/bold/HelveticaNeueLTArabic-Bold.svg#HelveticaNeueLTArabic-Bold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+html:lang(ar) {
+  /*
+  .ministers_list .single_item_wraper:nth-child(odd)  .thumbnail{
+  	float: right;
+      margin-left: 30px;
+      margin-right: 0;
+  }
+  .ministers_list .single_item_wraper:nth-child(even)  .thumbnail{
+  	float: left;
+      margin-left: 0;
+      margin-right: 30px;
+  } */ }
+  html:lang(ar) body {
+    font-family: "helvetica" !important; }
+  html:lang(ar) .rs_feature .rs_feature_single h2,
+  html:lang(ar) h1, html:lang(ar) h2, html:lang(ar) h3, html:lang(ar) h4, html:lang(ar) h5, html:lang(ar) h6 {
+    font-family: "helvetica"; }
+  html:lang(ar) * {
+    direction: rtl;
+    text-align: right; }
+  html:lang(ar) p {
+    direction: rtl;
+    font-family: "helvetica" !important; }
+  html:lang(ar) .main_menu > li ul {
+    left: auto;
+    right: 0; }
+  html:lang(ar) .rs_feature .rs_feature_single h2 {
+    font-size: 35px; }
+  html:lang(ar) .main_menu_section .lng_dropdown .dropdown-toggle {
+    padding: 4px 30px 8px 30px; }
+  html:lang(ar) .main_menu_section .icon_befor_lng i {
+    margin-top: 4px; }
+  html:lang(ar) .theme_changer a:before {
+    float: right;
+    margin-right: 0;
+    margin-left: 12px; }
+  html:lang(ar) .theme_changer a:after {
+    left: auto;
+    right: 5px; }
+  html:lang(ar) .text_size_controller {
+    text-align: left; }
+  html:lang(ar) .text_size_controller a {
+    text-align: center;
+    line-height: 35px; }
+  html:lang(ar) .mfp-container {
+    text-align: center; }
+  html:lang(ar) .header_top .logo2 {
+    margin-left: 0;
+    margin-right: 40px; }
+  html:lang(ar) .header_top .social_top span {
+    float: right;
+    margin: 6px 0 0 7px; }
+  html:lang(ar) .main_menu_section .navbar {
+    background: linear-gradient(90deg, #023DC3, #00C8E0) !important; }
+  html:lang(ar) .post_pagination ul li i:before {
+    transform: rotate(180deg); }
+  html:lang(ar) .kids .main_menu_section .navbar {
+    background: linear-gradient(90deg, #1ad325, #cbd91a) !important; }
+  html:lang(ar) .kids_slider .slider_item_box .controllers a + a {
+    margin-left: 0;
+    border-right: 2px solid #7b7b7b;
+    padding-left: 0;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-left: 0 none; }
+  html:lang(ar) .rs_row_5 .col_5,
+  html:lang(ar) .kids_slider .slider_item_box .controllers a img,
+  html:lang(ar) .kids_slider .slider_item_box .controllers a span {
+    float: right; }
+  html:lang(ar) .kids_slider .slider_item_box .controllers a img {
+    margin-right: 0;
+    margin-left: 8px; }
+  html:lang(ar) .rs_megamenu .mm_top_section h2,
+  html:lang(ar) .kids_slider .slider_item_box .controllers a,
+  html:lang(ar) .social_share_urls a,
+  html:lang(ar) .post_pagination ul li,
+  html:lang(ar) .footer_social div a,
+  html:lang(ar) .header_top .social_top div a,
+  html:lang(ar) .header_top .logo2,
+  html:lang(ar) .header_top .logo,
+  html:lang(ar) .header_top .social_top,
+  html:lang(ar) .main_menu_section .icon_befor_lng {
+    float: right; }
+  html:lang(ar) .rs_megamenu .mm_top_section a {
+    float: left;
+    padding-bottom: 12px; }
+  html:lang(ar) .header_top .logo2 + .float-right {
+    float: left !important; }
+  html:lang(ar) .header_section .search_box {
+    margin-left: 0;
+    margin-right: 20px; }
+  html:lang(ar) .header_section .search_box i {
+    left: auto;
+    right: 20px; }
+  html:lang(ar) .header_section .search_box .form-control {
+    padding-left: 0;
+    padding-right: 50px; }
+  html:lang(ar) .header_section .dropdown-toggle:after {
+    margin-left: 0;
+    margin-right: 6px; }
+  html:lang(ar) .header_section .mr-auto {
+    margin-right: 0 !important; }
+  html:lang(ar) .header_section .main_menu + .my-2 {
+    margin-right: auto !important; }
+  html:lang(ar) .header_section .main_menu a {
+    font-family: "helvetica"; }
+  html:lang(ar) .banner_section h2,
+  html:lang(ar) .banner_section p,
+  html:lang(ar) .banner_section h5 {
+    text-align: center; }
+  html:lang(ar) .section_title span {
+    float: right;
+    padding-right: 0;
+    padding-left: 31px; }
+  html:lang(ar) .section_title a {
+    float: left; }
+    html:lang(ar) .section_title a i {
+      transform: rotate(180deg);
+      margin-top: 3px; }
+  html:lang(ar) .news_section .single_news_item .more i:before {
+    transform: rotate(180deg); }
+  html:lang(ar) .copyright p,
+  html:lang(ar) .calltoaction p {
+    text-align: center; }
+  html:lang(ar) .footer_social span {
+    float: right;
+    margin: 2px 0 0 15px;
+    font-family: "helvetica"; }
+  html:lang(ar) .support_section .single_support div img {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px; }
+  html:lang(ar) .pl_70 {
+    margin-left: 0;
+    margin-right: 70px; }
+  html:lang(ar) .portal_box .portal_item .icon {
+    float: right;
+    margin-right: 0;
+    margin-left: 40px; }
+  html:lang(ar) .service_icon_title img {
+    float: right;
+    margin: 0 0 0 22px; }
+  html:lang(ar) .chosen-container-single .chosen-single div {
+    right: auto;
+    left: 16px; }
+  html:lang(ar) .chosen-container-single .chosen-single span {
+    margin-right: 0;
+    margin-left: 26px; }
+  html:lang(ar) .services_group:after {
+    left: auto;
+    margin: auto 15px auto auto;
+    right: 25%; }
+  html:lang(ar) .banner_section .banner_text .dl_btns a {
+    float: right; }
+  html:lang(ar) .banner_section .banner_text .dl_btns a + a {
+    margin-left: 0;
+    margin-right: 15px; }
+  html:lang(ar) .book_list_item span,
+  html:lang(ar) .book_list_item h2,
+  html:lang(ar) .book_list_item {
+    text-align: center;
+    line-height: 25px; }
+  html:lang(ar) .book_list_item span {
+    margin-top: 7px; }
+  html:lang(ar) .post_category_list,
+  html:lang(ar) .post_pagination,
+  html:lang(ar) .books_list_row > div {
+    text-align: center; }
+  html:lang(ar) .post_pagination .container,
+  html:lang(ar) .gallery_cats ul {
+    text-align: center; }
+  html:lang(ar) .sinlge_gl_img .hover_contents .hover_f {
+    left: auto;
+    right: 0; }
+  html:lang(ar) .sinlge_gl_img .hover_contents .mdi-plus {
+    left: auto;
+    right: 30px; }
+  html:lang(ar) .kids_zone_banner .text h3,
+  html:lang(ar) .default_page .subtitle,
+  html:lang(ar) .calltoaction p,
+  html:lang(ar) .status_section .single_status h2,
+  html:lang(ar) .news_section .single_news_item .cats_list,
+  html:lang(ar) .banner_section .banner_text h5 {
+    letter-spacing: 0; }
+  html:lang(ar) .single_handbook_item img {
+    margin-right: 0;
+    margin-left: 28px; }
+  html:lang(ar) .training_page_bootom a,
+  html:lang(ar) .training_page_bootom p,
+  html:lang(ar) .back_post_btn,
+  html:lang(ar) .social_share_urls {
+    text-align: center; }
+  html:lang(ar) .back_post_btn .btn.btn-default.btn_black {
+    float: none;
+    padding-top: 4px; }
+  html:lang(ar) .social_share_urls span {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px; }
+  html:lang(ar) .btn.btn-default.btn_black {
+    float: left; }
+  html:lang(ar) .training_page .list_bordered {
+    margin-right: 0;
+    margin-left: 20px; }
+  html:lang(ar) .main_menu > li.active > a {
+    font-weight: 600 !important; }
+  html:lang(ar) .organizational_ministers,
+  html:lang(ar) .organizational_ministers .round_box * {
+    text-align: center; }
+  html:lang(ar) .single_minister_item {
+    float: right; }
+  html:lang(ar) .ministers_list .single_item_wraper:nth-child(even) .single_minister_item {
+    float: left;
+    text-align: left; }
+  html:lang(ar) .single_minister_item .thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 30px; }
+  html:lang(ar) .single_minister_item .round_box {
+    margin-left: 0;
+    border-radius: 100px 0 0 100px;
+    margin-right: 70px; }
+  html:lang(ar) .ministers_list .single_item_wraper:nth-child(even) .round_box {
+    margin-left: 70px;
+    border-radius: 0 100px 100px 10px;
+    margin-right: 0; }
+  html:lang(ar) .ministers_list .single_item_wraper:nth-child(even) .thumbnail {
+    float: left;
+    margin-left: 0;
+    margin-right: 30px; }
+  html:lang(ar) .ministers_list .single_item_wraper .carve {
+    transform: scalex(-1); }
+  html:lang(ar) .ministers_list .single_item_wraper:nth-child(even) .single_minister_item .round_box h3,
+  html:lang(ar) .ministers_list .single_item_wraper:nth-child(even) .single_minister_item .round_box span {
+    text-align: left; }
+  html:lang(ar) .rs_site_wraper *,
+  html:lang(ar) .support_section .single_support div h2,
+  html:lang(ar) .title,
+  html:lang(ar) .single_minister_item .round_box h3,
+  html:lang(ar) .about_us_inner .about_box ul li,
+  html:lang(ar) .about_us_inner .about_box p,
+  html:lang(ar) .about_us_inner .about_box h2,
+  html:lang(ar) .contact_us_section .contact_title p,
+  html:lang(ar) .contact_us_section .contact_title h2 {
+    line-height: unset; }
+  html:lang(ar) .rs_site_wraper .news_details_page * {
+    line-height: normal; }
+  html:lang(ar) .post_pagination ul li a {
+    line-height: 46px; }
+  html:lang(ar) .slider_main .single_slide_content {
+    overflow: hidden; }
+  html:lang(ar) .slider_main .single_slide_content img {
+    float: left;
+    clear: both; }
+  html:lang(ar) .slider_main .single_slide_content .btn {
+    clear: both; }
+  html:lang(ar) .support_section .single_support h3 {
+    padding-left: 0;
+    padding-right: 64px; }
+  html:lang(ar) .news_section .single_news_item .more {
+    display: inline-block;
+    overflow: hidden; }
+  html:lang(ar) .news_section .single_news_item .more i {
+    padding-top: 3px;
+    display: inline-block;
+    float: left;
+    margin-right: 6px; }
+
+@media (max-width: 991px) {
+  html:lang(ar) .support_section .single_support h3 {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center; }
+  html:lang(ar) .pl_70 {
+    margin-left: 0;
+    margin-right: 0; }
+  html:lang(ar) .header_top .logo2 {
+    margin-left: 0;
+    margin-right: 0; }
+  html:lang(ar) .header_top .logo2 img {
+    float: left; }
+  html:lang(ar) .main_menu_section .navbar-toggler.ml-auto {
+    margin-left: 0 !important; }
+  html:lang(ar) .section_title a {
+    padding: 15px 0; }
+  html:lang(ar) .section_title span {
+    padding-right: 0;
+    padding-left: 0; } }
+@media (max-width: 768px) {
+  html:lang(ar) .footer_section .footer_widget h2,
+  html:lang(ar) .support_section .single_support p,
+  html:lang(ar) .footer_section .footer_widget ul li a {
+    text-align: center; } }
+@media (max-width: 767px) {
+  html:lang(ar) .single_handbook_item img {
+    margin: 0 auto;
+    width: auto; }
+  html:lang(ar) .post_pagination ul li a {
+    line-height: 36px; }
+  html:lang(ar) .single_handbook_item strong,
+  html:lang(ar) .single_handbook_item p {
+    text-align: center; }
+  html:lang(ar) .single_minister_item {
+    margin: 0 auto;
+    display: block;
+    float: none !important;
+    text-align: center !important; }
+  html:lang(ar) .single_minister_item .round_box {
+    margin-left: 0  !important;
+    margin-right: 0 !important;
+    border-radius: 100px !important;
+    margin-right: 0;
+    float: none;
+    display: block; }
+  html:lang(ar) .single_minister_item .thumbnail {
+    float: none !important;
+    margin-right: auto !important;
+    margin-left: 0 !important; }
+  html:lang(ar) .single_minister_item .round_box span,
+  html:lang(ar) .single_minister_item .round_box h3 {
+    text-align: center !important; } }
+
+/*# sourceMappingURL=rtl.css.map */
