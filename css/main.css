@@ -494,26 +494,27 @@ img{
 .si_history_content img {
     margin: auto;
     display: block;
-    margin-top: 76px;
+    margin-top: 88px;
 }
 .history_logo img  {
 	   margin: auto;
     display: block;
 }
 .history_logo_heading h6{
-	font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
     color: #000;
     letter-spacing: 5px;
-   display: inline-block;
-       padding-right: 20px;
+   	display: inline-block;
+    padding-right: 5px;
+    margin-bottom: 0;
 }
 .executive_heading h2 {
     margin-bottom: 0;
-    font-size: 44px;
-font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #000;
 
@@ -525,26 +526,32 @@ font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #a1a1a1;
-	letter-spacing: 3px;
+	letter-spacing: 5px;
+	margin-bottom: 6px;
 }
 
 .si_history_content {
-    padding: 0px 15%;
+    padding: 0px 7%;
     margin-top: 45px;
     margin-bottom: 90px;
 }
 .si_history_content p {
-    /* font-size: 18px; */
-    line-height: 24px;
+    font-size: 18px; 
+    font-family: 'Lato', sans-serif; 
+    line-height: 28px;
     color: #7b7b7b;
     font-weight: 400;
+    margin-bottom: 0;
 }
 .history_logo_area {
-    margin: 40px 0 0px;
+    margin: 46px 0 0px;
 }
 .executives_content{
-	padding-bottom: 35px;
+	padding-bottom: 30px;
 	margin-top: 68px;
+}
+.single_executive_content a{
+	text-decoration: none;
 }
 .single_executive_content img {
     width: 100%;
@@ -552,8 +559,6 @@ font-family: 'Poppins', sans-serif;
 .single_executive_content h4 {
     margin-top: 30px;
     margin-bottom: 10px;
-}
-.single_executive_content h4 a{
 	font-size: 12px;
 	font-family: 'Lato', sans-serif; 
 	font-weight: 400;
@@ -571,7 +576,7 @@ font-family: 'Poppins', sans-serif;
 }
 .si_mision_and_vision_section {
     background-color: #f8f8f8;
-    padding: 45px 0 40px;
+	padding: 40px 0 50px;
     margin-bottom: 90px;
 }
 .mision_and_vision_content {
@@ -596,8 +601,11 @@ font-family: 'Poppins', sans-serif;
 }
 .mision_and_vision_content p {
     color: #7b7b7b;
+    font-family: 'Lato', sans-serif; 
+	font-weight: 400;
     line-height: 24px;
     margin-bottom: 5px;
+    font-size: 16px;
 }
 .mision_and_vision_content ul {
     margin: 0;
@@ -606,13 +614,16 @@ font-family: 'Poppins', sans-serif;
 .mision_and_vision_content ul li{
 	 color: #7b7b7b;
     line-height: 24px;
+    font-family: 'Lato', sans-serif; 
+	font-weight: 400;
+	font-size: 16px;
 }
 ul.mision_and_vision_value {
     padding-left: 30px;
 }
 a.si_read_more {
     position: absolute;
-    bottom: -25px;
+    bottom: -27px;
     display: block;
     left: 0;
 }
