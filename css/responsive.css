@@ -17,6 +17,13 @@
 	.header_top .social_top span {
 		display: none;
 	}
+
+	/***********code for customer service page by si******/
+
+	.si_custoemer_service_left h3 {
+   	 font-size: 40px;
+	}
+
 }
 @media (max-width: 991px){
 	
@@ -126,6 +133,15 @@
 	.ministers_list  .single_item_wraper .carve {
 		margin-left: -115px;
 	}
+
+	/***********code for customer service page by si******/
+	.si_custoemer_service_left h6 {
+   	 font-size: 7px;
+   	 margin-bottom: 10px;
+	}
+	.si_custoemer_service_left h3 {
+   	 font-size: 30px;
+	}
 }
 
 @media (max-width:768px) {
@@ -153,7 +169,7 @@
 		width: 33.33%;
 	}
 
-	/******code for about page by si*****/
+	/******code for about us page by si*****/
 	.si_mision_and_vision_section {
    	    padding: 15px 0 50px;
 	}
@@ -165,13 +181,15 @@
 	    margin-bottom: 30px;
 	}
 
-	/****** code for alliance page*****/
+	/****** code for alliance page by si*****/
 	.alliance_content_img {
 	    margin-bottom: 35px;
 	}
 	.alliance_content {
     	padding: 0px 0px;
 	}
+
+
 }
 @media (max-width:767px) {
 	.slider_main .single_slide_content .btn{
@@ -315,6 +333,28 @@
 	}
 	.rs_megamenu .mm_top_section a {
 		font-size: 12px;
+	}
+
+	/***********code for customer service page by si******/
+	.si_custoemer_service_left h6 {
+   		 margin-bottom: 10px;
+	}
+	.si_custoemer_service_left h3 {
+   		 font-size: 30px;
+	}
+	.si_cusotmer_service_right {
+ 	   padding-left: 0;
+ 	   margin-top: 20px;
+	}
+	.si_form_group input {
+	    width: 100%;
+	    float: none;
+	}
+	.si_form_group{
+		text-align: center;
+	}
+	.si_form_group button{
+		margin-top: 30px;
 	}
 
 }

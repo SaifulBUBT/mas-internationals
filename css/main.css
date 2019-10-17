@@ -655,3 +655,114 @@ line-height: 22px;
 .si_bg_color{
 	background-color: #f8f8f8;
 }
+
+/*****============== code for customer-service page=======******************/
+.si_customer_service_area{}
+.si_customer_service_banner{
+	margin-top: -23px: 
+}
+.si_customer_service_banner img{
+	width: 100%;
+	margin-top: -23px;
+}
+.si_cutomer_service_content{
+	 padding: 68px 0 38px;
+}
+.si_custoemer_service_left{}
+.si_custoemer_service_left h6{
+	font-size: 12px;
+	font-weight: 700;
+	font-family: 'Lato', sans-serif; 
+	color: #a1a1a1;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	margin-bottom: 0;
+	margin-top: 10px;
+
+}
+.si_custoemer_service_left h3{
+	font-size: 48px;
+	font-weight: 700;
+    font-family: Montserrat;
+	color: #000000;
+	text-transform: capitalize;
+	margin-bottom: 0;
+
+}
+.si_custoemer_service_left img{
+	margin-top: 32px;
+}
+.si_cusotmer_service_right{
+	padding-left: 13px;
+}
+.si_cusotmer_service_right p{
+	font-weight: 400;
+	font-family: 'Lato', sans-serif; 
+	color: #7b7b7b;
+	font-size: 18px;
+	line-height: 28px;
+}
+.si_cusotmer_service_right ul{
+	padding: 0 0 0 16px;
+	margin-bottom: 0;
+}
+.si_cusotmer_service_right ul li{
+	font-weight: 400;
+	font-family: 'Lato', sans-serif; 
+	color: #7b7b7b;
+	font-size: 18px;
+}
+.si_make_payment_section{
+	background: url('../images/make-payment-bg.jpg');
+	background-size: cover;
+	background-color: #ddd;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 42px 0 44px;
+}
+.si_make_payment_content{}
+.si_make_payment_content h6{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Lato', sans-serif; 
+	color: #ffffff;
+	letter-spacing: 7px;
+	text-transform: uppercase;	
+	margin-bottom: 0;
+}
+.carousel-control-next, .carousel-control-prev{
+	width: 10%;
+}
+.carousel-indicators{
+	display: none;
+}
+.si_customer_service_carousel{
+	margin-top: 65px;
+}
+
+
+
+.form_payment_submition{
+	margin-top: 36px;
+}
+.si_form_group{
+	margin-bottom: 0;
+}
+.si_form_group input{
+	width: 75%;
+    float: right;
+	border-radius: 40px;
+	height: 50px;
+	padding-left: 30px;
+	padding-right: 15px;
+
+}
+.si_form_group button{
+	height: 50px;
+	text-transform: capitalize;
+	padding: 10px 40px 10px 62px;
+	}
+.si_form_group button i{
+	margin-left: 6px;
+	font-size: 12px;
+}
