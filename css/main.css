@@ -995,3 +995,50 @@ line-height: 22px;
 	margin-bottom: 5px;
 
 }
+
+/******=======code for careeer page by si======*****/
+.si_join_us_section{}
+.join_us_content{}
+.join_us_content p{
+	color: #7d7d7d;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif; 
+	line-height: 26px;
+	padding: 0 30px;
+	margin-bottom: 25px;
+ 
+}
+.join_us_content h2{
+	font-size: 25px;
+	font-weight: 700;
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	padding: 80px 0 30px;
+
+}
+.join_us_content p strong{
+	color: #0c1a5a;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Lato', sans-serif; 
+}
+.si_job_application_form h2{
+	color: #000;
+	font-size: 48px;
+	font-weight: 700;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: capitalize;
+	margin-top: 47px;
+	margin-bottom: 38px;
+
+}
+.si_job_application_form p{
+		color: #7d7d7d;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif; 
+	line-height: 26px;
+	padding:0 30px;
+	margin-bottom: 60px;
+}
