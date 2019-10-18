@@ -188,7 +188,14 @@
 	.alliance_content {
     	padding: 0px 0px;
 	}
-
+	/***** code for contat us page by si***/
+	.si_address_box {
+    	margin-bottom: 30px;
+	}
+	.si_single_office{
+		margin-bottom: 30px;
+		text-align: center;
+	}
 
 }
 @media (max-width:767px) {
@@ -369,6 +376,13 @@
 	}
 	.service_icon_title h2 {
 		text-align: center;
+	}
+	.page_banner_contents h1 {
+   	 font-size: 40px;
+	}
+	/***** code for contact us page by si****/
+	.si_get_in_touch h2 {
+   	 font-size: 32px;
 	}
 
 }
